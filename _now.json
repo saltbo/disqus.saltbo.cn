@@ -2,7 +2,7 @@
     "version": 2,
     "name": "disqusjs-proxy",
     "alias": [
-        "[Place Your Domain Here]"
+        "disqus.saltbo.cn"
     ],
     "routes": [
         {
